@@ -1,7 +1,16 @@
-# Tauri + Solid + Typescript
+# Task Manager
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
+A simple task manager built using Tauri with Sqlite as a database.
 
-## Recommended IDE Setup
+### Programming Languages and Technologies used
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- Rust (backend)
+- Tauri (GUI framework)
+- Solidjs (UI library)
+- Typescript (frontend interfacing)
+- Tailwind CSS (styling)
+- Sqlite (database)
+
+### Setup
+
+
