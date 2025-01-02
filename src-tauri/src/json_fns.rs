@@ -21,7 +21,6 @@ pub fn read_json(path: &String) -> Result<String> {
     .read_to_string(&mut contents)
     .expect("Couldn't convert result into vector");
 
-  println!("{}", &contents);
   if contents != "" {
     Ok(contents)
   } else {
